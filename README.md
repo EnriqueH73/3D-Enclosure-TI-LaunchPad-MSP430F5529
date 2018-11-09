@@ -1,4 +1,4 @@
-3D Printed Case for Arduino Uno Leonardo
+3D Printed Enclosure for SiFive HiFive development board.
 ----------------------------------------
 
 
